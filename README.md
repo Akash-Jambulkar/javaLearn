@@ -17,7 +17,7 @@ This repository contains a collection of Java programs, algorithms, and projects
 
 Feel free to explore the code, provide feedback, or use it as a reference for your own projects.
 
-##Codes
+## Codes
 
 - [Hello World Program](https://github.com/Akash-Jambulkar/javaLearn/blob/main/HelloWorld.java)
 - [My Name](https://github.com/Akash-Jambulkar/javaLearn/blob/main/java01.java)
