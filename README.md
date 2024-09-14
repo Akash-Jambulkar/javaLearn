@@ -5,6 +5,7 @@ Welcome to my Java Code Practice repository! This repository showcases various J
 ## Table of Contents
 
 - [About](#about)
+- [Codes](#codes)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
@@ -15,6 +16,13 @@ Welcome to my Java Code Practice repository! This repository showcases various J
 This repository contains a collection of Java programs, algorithms, and projects that I’m working on to practice and improve my programming skills. The projects range from simple exercises to more complex applications, covering various aspects of Java programming including:
 
 Feel free to explore the code, provide feedback, or use it as a reference for your own projects.
+
+##Codes
+
+- [Hello World Program](https://github.com/Akash-Jambulkar/javaLearn/blob/main/HelloWorld.java)
+- [My Name](https://github.com/Akash-Jambulkar/javaLearn/blob/main/java01.java)
+- [Data Types](https://github.com/Akash-Jambulkar/javaLearn/blob/main/VariablesDataTypes.java)
+- [Control Statement](https://github.com/Akash-Jambulkar/javaLearn/blob/main/ControlStatement.java)
 
 ## Getting Started
 
